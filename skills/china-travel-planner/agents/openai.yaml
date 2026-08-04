@@ -1,0 +1,4 @@
+interface:
+  display_name: "China Travel Planner"
+  short_description: "Plan China trips and draw Amap route maps"
+  default_prompt: "Use $china-travel-planner to plan a China trip or draw an Amap route map with POIs, driving polylines, dates, budget, people, and travel preferences."
