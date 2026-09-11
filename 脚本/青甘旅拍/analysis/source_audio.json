@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "source_file": "bgm/dc39D5yN-Places-Portair.mp3",
+  "file_bytes": 8499414,
+  "sha256": "4e2e8b4f5bf670d2acfcf97cf40d37c128bb0195871c8f073cf73e0cc8fecc0a",
+  "embedded_tags": {
+    "id3v2_major_version": 3,
+    "title": "Places",
+    "album": "Places",
+    "artist": "Portair"
+  },
+  "mpeg_layer_iii_frames": 8134,
+  "frame_duration_seconds": 212.48,
+  "sample_rate_hz_by_frame_count": {
+    "44100": 8134
+  },
+  "bitrate_kbps_by_frame_count": {
+    "320": 8134
+  },
+  "channels_by_frame_count": {
+    "2": 8134
+  },
+  "unparsed_or_resync_bytes_after_id3": 0,
+  "method": "MP3 frame header scan; audio was not decoded or listened to",
+  "limitations": [
+    "Frame duration is not adjusted for encoder delay or end padding.",
+    "Embedded tags are file-supplied metadata, not external identity verification.",
+    "No BPM, loudness, mood, lyric, or music section claims are made."
+  ]
+}
