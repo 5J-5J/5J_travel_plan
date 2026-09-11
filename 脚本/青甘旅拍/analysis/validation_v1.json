@@ -1,0 +1,24 @@
+{
+  "shot_count": 32,
+  "video_frames": 2250,
+  "timeline_fps": 25,
+  "duration_s": 90,
+  "last_shot_continuous_s": 11,
+  "continuous_shot_timeline": true,
+  "source_intervals_within_audio": true,
+  "raw_source_sha256": "4e2e8b4f5bf670d2acfcf97cf40d37c128bb0195871c8f073cf73e0cc8fecc0a",
+  "pcm_duration_s": 90.0,
+  "decoded_preview_duration_s": 90.0,
+  "sample_rate_hz": 44100,
+  "pcm_sample_peak_dbfs": -1.778,
+  "decoded_mp3_sample_peak_dbfs": -1.681,
+  "preview": "audio/places_90s_structure_v1.mp3",
+  "preview_includes": "Original user music edit only; no dialogue, no real-location ambience, no synthetic guide effects",
+  "audio_processing": "No time stretch, no overlapping source clips; short per-clip edge fades; -2 dB gain.",
+  "not_checked": [
+    "aural quality / vocals and phrase continuity",
+    "true peak",
+    "integrated LUFS",
+    "precise musical downbeat alignment"
+  ]
+}

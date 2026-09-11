@@ -1,0 +1,688 @@
+{
+  "version": "v1",
+  "working_title": "第十一秒",
+  "status": "creative proposal; music joins need aural review",
+  "fps": 25,
+  "duration": 90,
+  "aspect_ratio": "16:9",
+  "source": "bgm/dc39D5yN-Places-Portair.mp3",
+  "music": [
+    {
+      "id": "M01",
+      "timeline_in": 0.0,
+      "timeline_out": 64.0,
+      "source_in": 16.0,
+      "source_out": 80.0,
+      "fade_in": 0.16,
+      "fade_out": 0.08,
+      "purpose": "从准备进入追赶，再保留原曲自身的能量回落"
+    },
+    {
+      "id": "M02",
+      "timeline_in": 64.0,
+      "timeline_out": 80.0,
+      "source_in": 160.0,
+      "source_out": 176.0,
+      "fade_in": 0.08,
+      "fade_out": 0.12,
+      "purpose": "低处重新蓄力，约成片66秒展开放松的大景"
+    },
+    {
+      "id": "M03",
+      "timeline_in": 80.0,
+      "timeline_out": 90.0,
+      "source_in": 202.4,
+      "source_out": 212.4,
+      "fade_in": 0.12,
+      "fade_out": 0.8,
+      "purpose": "固定长镜头中的余韵；拼接乐句待耳审"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S001",
+      "timeline_in": 0,
+      "timeline_out": 2,
+      "duration": 2,
+      "timecode_in": "00:00:00",
+      "timecode_out": "00:02:00",
+      "scale_location": "特写｜青海湖岸",
+      "action": "手停在相机旁；后期简洁叠入一次『10s』，同时看见远处预留的人物位置。",
+      "execution": "Action 5 Pro拍ZR与手，保持可对焦距离后裁切；由摄影者机位补手部。",
+      "sound": "第一声自拍提示音，短而干；音乐由原曲16秒进入。",
+      "priority_alternative": "必拍；不伪造ZR真实菜单。参考图1。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 16.0,
+          "source_out": 18.0
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "timeline_in": 2,
+      "timeline_out": 4,
+      "duration": 2,
+      "timecode_in": "00:02:00",
+      "timecode_out": "00:04:00",
+      "scale_location": "中景｜同一湖岸",
+      "action": "你在三脚架后校水平，把远处一个点当成目标，起身离开。",
+      "execution": "Action侧后固定；ZR在画内当道具，也在录制备用角度。",
+      "sound": "旋钮轻响、衣料摩擦。",
+      "priority_alternative": "必拍；不要求额外摄影者。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 18.0,
+          "source_out": 20.0
+        }
+      ]
+    },
+    {
+      "id": "S003",
+      "timeline_in": 4,
+      "timeline_out": 6.4,
+      "duration": 2.4,
+      "timecode_in": "00:04:00",
+      "timecode_out": "00:06:10",
+      "scale_location": "远景｜同一湖岸",
+      "action": "你从画面左边急着跑入，位置偏左，地平线保持稳定。",
+      "execution": "ZR三脚架；先对标记点预对焦，再录长一条挑动作。",
+      "sound": "脚步渐近，倒计时继续。",
+      "priority_alternative": "必拍；岸上可行走地面。参考图2。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 20.0,
+          "source_out": 22.4
+        }
+      ]
+    },
+    {
+      "id": "S004",
+      "timeline_in": 6.4,
+      "timeline_out": 8,
+      "duration": 1.6,
+      "timecode_in": "00:06:10",
+      "timecode_out": "00:08:00",
+      "scale_location": "近景｜湖岸",
+      "action": "侧脸刚转向镜头，又低头找脚下站位。表情只需认真。",
+      "execution": "ZR固定，拍完大景后另录表情；可请同行者轻微横移。",
+      "sound": "保留一次短促吸气。",
+      "priority_alternative": "可缩；单人用固定半身。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 22.4,
+          "source_out": 24.0
+        }
+      ]
+    },
+    {
+      "id": "S005",
+      "timeline_in": 8,
+      "timeline_out": 10,
+      "duration": 2,
+      "timecode_in": "00:08:00",
+      "timecode_out": "00:10:00",
+      "scale_location": "特写｜湖岸",
+      "action": "手急着拉直外套下摆，身体尚未站稳。",
+      "execution": "ZR近取手部，固定机位；焦段以现有镜头为准。",
+      "sound": "9秒附近最后一次提示，10秒轻快门声。",
+      "priority_alternative": "必拍；为后面松手建立对照。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 24.0,
+          "source_out": 26.0
+        }
+      ]
+    },
+    {
+      "id": "S006",
+      "timeline_in": 10,
+      "timeline_out": 12,
+      "duration": 2,
+      "timecode_in": "00:10:00",
+      "timecode_out": "00:12:00",
+      "scale_location": "全景→定格｜湖岸",
+      "action": "身体还在调整姿势时定格；边缘裁掉一小部分手臂，留下刻意过正的中心空位。",
+      "execution": "由S003同机位素材截帧，停留约0.7秒再回到活动影像。",
+      "sound": "快门后留短空隙；不用白屏闪光轰炸。",
+      "priority_alternative": "必拍；观众读到『还没准备好』。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 26.0,
+          "source_out": 28.0
+        }
+      ]
+    },
+    {
+      "id": "S007",
+      "timeline_in": 12,
+      "timeline_out": 16,
+      "duration": 4,
+      "timecode_in": "00:12:00",
+      "timecode_out": "00:16:00",
+      "scale_location": "中近景｜湖岸",
+      "action": "你回看屏幕，轻轻抿嘴，折起三脚架。把不满意收进下一次尝试。",
+      "execution": "ZR拍人，Action拍屏幕外侧；画内不必展示可读照片。",
+      "sound": "合脚架声提前接下一镜的车内低声。",
+      "priority_alternative": "必拍；情绪克制，不演大失落。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 28.0,
+          "source_out": 32.0
+        }
+      ]
+    },
+    {
+      "id": "S008",
+      "timeline_in": 16,
+      "timeline_out": 18.4,
+      "duration": 2.4,
+      "timecode_in": "00:16:00",
+      "timecode_out": "00:18:10",
+      "scale_location": "中景｜转场途中",
+      "action": "车窗里叠着你的淡淡倒影，窗外风景从湖蓝变成浅白。",
+      "execution": "Action由乘员侧固定；车辆运动镜头另拍，演员不兼任驾驶动作。",
+      "sound": "车内低频衔接音乐能量上升。",
+      "priority_alternative": "可选；停着的车窗反射也成立。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 32.0,
+          "source_out": 34.4
+        }
+      ]
+    },
+    {
+      "id": "S009",
+      "timeline_in": 18.4,
+      "timeline_out": 20.4,
+      "duration": 2.0,
+      "timecode_in": "00:18:10",
+      "timecode_out": "00:20:10",
+      "scale_location": "特写｜茶卡",
+      "action": "相同的手，再拧紧一次脚架旋钮。动作更快。",
+      "execution": "ZR近拍旋钮或Action中近景裁切；记录一致的手向。",
+      "sound": "第二轮倒计时从18秒声先行；旋钮声踩画面动作。",
+      "priority_alternative": "必拍；和S001/S005形成重复。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 34.4,
+          "source_out": 36.4
+        }
+      ]
+    },
+    {
+      "id": "S010",
+      "timeline_in": 20.4,
+      "timeline_out": 23.2,
+      "duration": 2.8,
+      "timecode_in": "00:20:10",
+      "timecode_out": "00:23:05",
+      "scale_location": "全景｜茶卡允许停留的步道/平台",
+      "action": "你跨进预留位置；风拉起衣角，刚整理好的姿势又变了。",
+      "execution": "ZR三脚架；广角留大量白色与天空，不踩未开放盐壳。",
+      "sound": "一阵清楚的衣料拍打声。",
+      "priority_alternative": "必拍；镜面不成立时改浅白背景与步道纵深。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 36.4,
+          "source_out": 39.2
+        }
+      ]
+    },
+    {
+      "id": "S011",
+      "timeline_in": 23.2,
+      "timeline_out": 25.6,
+      "duration": 2.4,
+      "timecode_in": "00:23:05",
+      "timecode_out": "00:25:15",
+      "scale_location": "近景｜茶卡或大柴旦",
+      "action": "你转头追着相机方向看，眼神专注，肩膀有点紧。",
+      "execution": "ZR固定或由帮拍者短弧横移；动作方向与下一场一致。",
+      "sound": "倒计时持续，不叠加长呼啸音效。",
+      "priority_alternative": "可选；单人可取侧背。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 39.2,
+          "source_out": 41.6
+        }
+      ]
+    },
+    {
+      "id": "S012",
+      "timeline_in": 25.6,
+      "timeline_out": 28,
+      "duration": 2.4,
+      "timecode_in": "00:25:15",
+      "timecode_out": "00:28:00",
+      "scale_location": "大远景｜大柴旦候选点",
+      "action": "淡色盐地切出一块青绿色，画面突然很大；人物可以不出现。",
+      "execution": "Air 2S只做稳定缓升/俯视，地点允许且条件合适才拍；不要求FPV。",
+      "sound": "环境声短暂远去，让空间拉开。",
+      "priority_alternative": "可选；地面较高观景点的静态远景替代。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 41.6,
+          "source_out": 44.0
+        }
+      ]
+    },
+    {
+      "id": "S013",
+      "timeline_in": 28,
+      "timeline_out": 30.4,
+      "duration": 2.4,
+      "timecode_in": "00:28:00",
+      "timecode_out": "00:30:10",
+      "scale_location": "中景｜大柴旦",
+      "action": "第二次快门后，你抬手看画面，又迅速把视线抬向下一个地方。",
+      "execution": "ZR三脚架，中景；肩头转动接下一镜。",
+      "sound": "28秒快门轻响；下一场沙地脚步先进入。",
+      "priority_alternative": "可缩；维持『再来一次』的行动。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 44.0,
+          "source_out": 46.4
+        }
+      ]
+    },
+    {
+      "id": "S014",
+      "timeline_in": 30.4,
+      "timeline_out": 33.2,
+      "duration": 2.8,
+      "timecode_in": "00:30:10",
+      "timecode_out": "00:33:05",
+      "scale_location": "中景｜敦煌可进入的低缓沙地",
+      "action": "新地点，同一套动作：支脚架、压住外套、看向自己选好的点。",
+      "execution": "Action侧面记录；三脚架稳置，不设置在陡坡。",
+      "sound": "支架轻碰与细沙摩擦，音乐推动动作。",
+      "priority_alternative": "必拍；沙地只是候选，非固定某座沙丘。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 46.4,
+          "source_out": 49.2
+        }
+      ]
+    },
+    {
+      "id": "S015",
+      "timeline_in": 33.2,
+      "timeline_out": 36,
+      "duration": 2.8,
+      "timecode_in": "00:33:05",
+      "timecode_out": "00:36:00",
+      "scale_location": "近景｜低缓沙地",
+      "action": "鞋踏进软沙，一步比预想的短；你停半拍，再继续。",
+      "execution": "Action低机位固定；无需奔跑下坡或故意摔倒。",
+      "sound": "只突出一次陷入沙面的脚步。",
+      "priority_alternative": "必拍；挫折来自节奏被打断。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 49.2,
+          "source_out": 52.0
+        }
+      ]
+    },
+    {
+      "id": "S016a",
+      "timeline_in": 36,
+      "timeline_out": 36.8,
+      "duration": 0.8,
+      "timecode_in": "00:36:00",
+      "timecode_out": "00:36:20",
+      "scale_location": "全景｜青海湖",
+      "action": "同一只脚刚迈出，身体向右前方跨步。",
+      "execution": "ZR固定机高约腰部；严格统一运动方向和人物画面高度。",
+      "sound": "第三轮提示音开始；一声贯穿三镜。",
+      "priority_alternative": "必拍匹配组；提前在湖岸补录。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 52.0,
+          "source_out": 52.8
+        }
+      ]
+    },
+    {
+      "id": "S016b",
+      "timeline_in": 36.8,
+      "timeline_out": 37.6,
+      "duration": 0.8,
+      "timecode_in": "00:36:20",
+      "timecode_out": "00:37:15",
+      "scale_location": "全景｜茶卡",
+      "action": "保持同一跨步位置，背景瞬间换成浅白。",
+      "execution": "重复S016a构图；剪在身体遮住背景最多的一帧附近。",
+      "sound": "音乐延续，不另加转场轰声。",
+      "priority_alternative": "必拍匹配组；没有平台则换普通浅色岸边。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 52.8,
+          "source_out": 53.6
+        }
+      ]
+    },
+    {
+      "id": "S016c",
+      "timeline_in": 37.6,
+      "timeline_out": 38.4,
+      "duration": 0.8,
+      "timecode_in": "00:37:15",
+      "timecode_out": "00:38:10",
+      "scale_location": "全景｜敦煌低缓沙地",
+      "action": "跨步落地，背景变成赭色沙地。",
+      "execution": "重复前两镜；步长自然，以裁切微调人物大小。",
+      "sound": "让最后一脚真实落地声可听见。",
+      "priority_alternative": "必拍匹配组；三个地点代表多次尝试的压缩。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 53.6,
+          "source_out": 54.4
+        }
+      ]
+    },
+    {
+      "id": "S017",
+      "timeline_in": 38.4,
+      "timeline_out": 41.2,
+      "duration": 2.8,
+      "timecode_in": "00:38:10",
+      "timecode_out": "00:41:05",
+      "scale_location": "特写｜沙地",
+      "action": "手又捏紧外套下摆，这一次抓得更用力，停了一瞬。",
+      "execution": "ZR固定拍手；构图对应S005。",
+      "sound": "提示音进入近景声场。",
+      "priority_alternative": "必拍；给S022的松手明确意义。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 54.4,
+          "source_out": 57.2
+        }
+      ]
+    },
+    {
+      "id": "S018",
+      "timeline_in": 41.2,
+      "timeline_out": 44,
+      "duration": 2.8,
+      "timecode_in": "00:41:05",
+      "timecode_out": "00:44:00",
+      "scale_location": "大远景｜同一低缓沙地",
+      "action": "你仍想走到画面的理想位置，却显得很小；终于停住。",
+      "execution": "ZR三脚架远景，稍长的取景距离压小人物；帮拍可缓慢后退。",
+      "sound": "脚步停，提示音还在继续。",
+      "priority_alternative": "必拍；一个镜头交代人和尺度的关系。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 57.2,
+          "source_out": 60.0
+        }
+      ]
+    },
+    {
+      "id": "S019",
+      "timeline_in": 44,
+      "timeline_out": 46,
+      "duration": 2,
+      "timecode_in": "00:44:00",
+      "timecode_out": "00:46:00",
+      "scale_location": "特写｜相机侧面/手的记忆插镜",
+      "action": "取景框边缘叠一次『1』，你还没转好身。不要连打多个数字。",
+      "execution": "Action拍相机侧背；数字为后期视觉语言，不模仿菜单。",
+      "sound": "最后一声提示；46秒快门。",
+      "priority_alternative": "可缩；无UI版本直接看你未完成的转身。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 60.0,
+          "source_out": 62.0
+        }
+      ]
+    },
+    {
+      "id": "S020",
+      "timeline_in": 46,
+      "timeline_out": 48,
+      "duration": 2,
+      "timecode_in": "00:46:00",
+      "timecode_out": "00:48:00",
+      "scale_location": "全景→定格｜沙地",
+      "action": "快门定住一个转到一半的背影；衣角斜着。完美姿势又错过了。",
+      "execution": "从同机位视频取一帧，停约0.6–0.8秒；保留真实风。",
+      "sound": "快门之后音乐沿原曲自然回落。",
+      "priority_alternative": "必拍；参考图3。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 62.0,
+          "source_out": 64.0
+        }
+      ]
+    },
+    {
+      "id": "S021",
+      "timeline_in": 48,
+      "timeline_out": 53,
+      "duration": 5,
+      "timecode_in": "00:48:00",
+      "timecode_out": "00:53:00",
+      "scale_location": "中近景｜同一沙地",
+      "action": "你在低缓处坐/蹲下，喘一口气，视线从相机移到远方。保持五秒。",
+      "execution": "ZR三脚架或帮拍者稳住机位；正常速度，不慢放呼吸。",
+      "sound": "原曲64–69秒能量降低；呼吸和风来到前景。",
+      "priority_alternative": "必拍；参考图4。不加失恋/创伤背景。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 64.0,
+          "source_out": 69.0
+        }
+      ]
+    },
+    {
+      "id": "S022",
+      "timeline_in": 53,
+      "timeline_out": 56,
+      "duration": 3,
+      "timecode_in": "00:53:00",
+      "timecode_out": "00:56:00",
+      "scale_location": "特写｜同一位置",
+      "action": "捏住衣角的手慢慢松开，衣料由风带动。",
+      "execution": "对应S005/S017的构图，固定拍完整动作。",
+      "sound": "现场衣料声接住音乐空隙。",
+      "priority_alternative": "必拍；情绪转变的可见动作。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 69.0,
+          "source_out": 72.0
+        }
+      ]
+    },
+    {
+      "id": "S023",
+      "timeline_in": 56,
+      "timeline_out": 60,
+      "duration": 4,
+      "timecode_in": "00:56:00",
+      "timecode_out": "01:00:00",
+      "scale_location": "近景｜相机旁",
+      "action": "你走回相机，开始录影；出现一个简洁红点/REC，手不再慌。",
+      "execution": "Action拍ZR操作；具体按键以实际机身为准，录影状态可后期抽象表达。",
+      "sound": "一声录制提示即可；自拍滴声从这里消失。",
+      "priority_alternative": "必拍；交代『让相机一直等』。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 72.0,
+          "source_out": 76.0
+        }
+      ]
+    },
+    {
+      "id": "S024",
+      "timeline_in": 60,
+      "timeline_out": 64,
+      "duration": 4,
+      "timecode_in": "01:00:00",
+      "timecode_out": "01:04:00",
+      "scale_location": "全景｜沙地",
+      "action": "你先站在脚架旁，看一眼风景，再慢慢走开。多留半秒不动。",
+      "execution": "Action侧后固定记录人与ZR；也可分开拍机位与人物。",
+      "sound": "这一段原曲处于低能量，留风，不塞旁白。",
+      "priority_alternative": "必拍；前面跑，这里走。",
+      "music": [
+        {
+          "music_id": "M01",
+          "source_in": 76.0,
+          "source_out": 80.0
+        }
+      ]
+    },
+    {
+      "id": "S025",
+      "timeline_in": 64,
+      "timeline_out": 66,
+      "duration": 2,
+      "timecode_in": "01:04:00",
+      "timecode_out": "01:06:00",
+      "scale_location": "近景｜沙地",
+      "action": "同一只脚再次踩进沙里。这次不急着拔出来，重量缓慢落稳。",
+      "execution": "Action低位；与S015同位置/方向，取自然动作。",
+      "sound": "切入原曲160秒，先保留低处再抬升。",
+      "priority_alternative": "必拍；转折后第一个动作。",
+      "music": [
+        {
+          "music_id": "M02",
+          "source_in": 160.0,
+          "source_out": 162.0
+        }
+      ]
+    },
+    {
+      "id": "S026",
+      "timeline_in": 66,
+      "timeline_out": 70,
+      "duration": 4,
+      "timecode_in": "01:06:00",
+      "timecode_out": "01:10:00",
+      "scale_location": "大远景｜敦煌候选开放场景",
+      "action": "地貌展开，你静静处在画面里，终于无需修正站姿。",
+      "execution": "首选ZR高一点的地面机位；有帮拍者时可做缓退。航拍替代只拍环境。",
+      "sound": "原曲约162秒后的能量抬升；此镜不碎切。",
+      "priority_alternative": "必拍的大景功能；航拍可选。参考图5。",
+      "music": [
+        {
+          "music_id": "M02",
+          "source_in": 162.0,
+          "source_out": 166.0
+        }
+      ]
+    },
+    {
+      "id": "S027",
+      "timeline_in": 70,
+      "timeline_out": 73.2,
+      "duration": 3.2,
+      "timecode_in": "01:10:00",
+      "timecode_out": "01:13:05",
+      "scale_location": "中近景｜沙地",
+      "action": "风吹来，你下意识偏头，露出很轻的笑；把自然反应留住。",
+      "execution": "帮拍者用稳定器短跟；单人以ZR固定机位走入近景。",
+      "sound": "让一声衣料/轻笑穿过音乐，若没录到就用风。",
+      "priority_alternative": "必拍；不要求夸张张臂。",
+      "music": [
+        {
+          "music_id": "M02",
+          "source_in": 166.0,
+          "source_out": 169.2
+        }
+      ]
+    },
+    {
+      "id": "S028",
+      "timeline_in": 73.2,
+      "timeline_out": 76.4,
+      "duration": 3.2,
+      "timecode_in": "01:13:05",
+      "timecode_out": "01:16:10",
+      "scale_location": "远景｜张掖观景区域",
+      "action": "色层顺着一个方向延伸；同向轻摇，接上人的转头。",
+      "execution": "ZR地面观景平台拍，短摇或固定后期小幅裁切。",
+      "sound": "音乐持续；不添加旅游介绍字幕。",
+      "priority_alternative": "可选；无丹霞条件则换沿途山脉层次。",
+      "music": [
+        {
+          "music_id": "M02",
+          "source_in": 169.2,
+          "source_out": 172.4
+        }
+      ]
+    },
+    {
+      "id": "S029",
+      "timeline_in": 76.4,
+      "timeline_out": 79,
+      "duration": 2.6,
+      "timecode_in": "01:16:10",
+      "timecode_out": "01:19:00",
+      "scale_location": "全景｜祁连候选开放步道",
+      "action": "你拎着相机慢慢走过秋草边缘，停一下，把画面留给眼前。",
+      "execution": "ZR三脚架或稳定器帮拍；走可通行路径。",
+      "sound": "脚步放缓，风声提前进入最后一镜。",
+      "priority_alternative": "可选；衣服仍保持同一视觉连续性。",
+      "music": [
+        {
+          "music_id": "M02",
+          "source_in": 172.4,
+          "source_out": 175.0
+        }
+      ]
+    },
+    {
+      "id": "S030",
+      "timeline_in": 79,
+      "timeline_out": 90,
+      "duration": 11,
+      "timecode_in": "01:19:00",
+      "timecode_out": "01:30:00",
+      "scale_location": "大远景｜祁连同一开放位置",
+      "action": "完整11秒不切：先空景约2秒，你慢慢走入，站定看远山，最后仍有风在动。89秒小字『第十一秒』出现。",
+      "execution": "ZR三脚架，机位与曝光固定；预留入画路线，人物偏离正中心也成立。",
+      "sound": "79–80秒沿M02；80秒切尾段M03。没有自拍快门，风声贯穿。",
+      "priority_alternative": "必拍；参考图6。山体/草地不合适时用沙地完成同结构。",
+      "music": [
+        {
+          "music_id": "M02",
+          "source_in": 175.0,
+          "source_out": 176.0
+        },
+        {
+          "music_id": "M03",
+          "source_in": 202.4,
+          "source_out": 212.4
+        }
+      ]
+    }
+  ]
+}
