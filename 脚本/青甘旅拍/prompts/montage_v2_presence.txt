@@ -1,0 +1,14 @@
+Use case: photorealistic-natural
+Asset type: six-frame cinematic storyboard contact sheet for an original montage-led Qinghai/Gansu solo travel film.
+Layout: exactly THREE COLUMNS and TWO ROWS, six equal horizontal 16:9 film photographs, slim dark gutters. No text or labels in the image.
+Consistent traveler: anonymous adult with no clearly identifiable face, seen from rear or side, muted ochre/olive jacket, dark straight trousers, simple dark walking shoes, no visible brand. Outfit is a concept, not a real user likeness. One person maximum in each frame. Ground-based camera views, feasible with a mirrorless camera on a tripod.
+Look: rich but restrained natural texture, subtle film grain, soft highlights, warm sand versus cool blue water, real late-September/early-October highland atmosphere, no oversaturation.
+TOP ROW: one walking movement folds several days into one step. All three frames have exactly the same camera height, horizon height, subject image size, and screen position. Traveler at the left third, shown full body, moving left to right. Normal natural gait, not heroic posing.
+Panel 1: high-altitude blue-grey lakeshore, right foot beginning a step.
+Panel 2: pale mineral lake walkway/background, right foot moving through the middle of that exact same step; similar posture and subject size. Accessible stable ground, no walking on fragile salt crust.
+Panel 3: low gentle warm sand slope, right foot completing that same step at the same frame position. No cliff or steep running.
+BOTTOM ROW:
+Panel 4: locked wide ground-level shot in a gentle open sandy landscape. Traveler is near the right third with back to camera, head turning slightly. Lots of quiet space, wind only gently lifting clothing. Neutral contemplative feeling.
+Panel 5: EXACTLY the same composition, lens perspective, horizon, low dunes, time of day, and light as panel 4, but traveler has left the frame. Keep every other feature visually unchanged. Empty space should be noticeable; no ghost, shadow-person, ominous object or dramatic storm.
+Panel 6: intimate partial profile/reflection of the same traveler in a side window of a stationary car; layered outdoor mountains gently cross the reflection as a real optical reflection. Restrained quiet return to reality. No visible camera UI, brand or text. Shot is achievable through glass, not a surreal double-exposure face-landscape composite.
+Constraints: exactly six photographic panels in 3x2; panel 4 and 5 must form an explicit person/empty-shot pair; upper-row geometry consistent; no fake locations, no guaranteed snow, no crowds, no logos/watermarks/text. The montage expresses time and presence through editing, not visual effects inside the individual shots.

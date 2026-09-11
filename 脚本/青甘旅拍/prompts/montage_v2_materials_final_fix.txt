@@ -1,0 +1,6 @@
+Use case: precise-object-edit
+Input image is the edit target, a 3-column by 2-row six-photograph contact sheet with overall aspect ratio 8:3.
+Change ONLY the TOP-LEFT photograph. Keep the other FIVE photographs, their positions, the full panoramic canvas size, horizontal 16:9 cell aspect ratios, gutters, color treatment and all other content unchanged.
+In the top-left photograph, the dominant clothing seam/fold is currently descending from upper-left to lower-right. Replace that particular garment detail with a natural ochre/olive shoulder-fabric fold that ASCENDS FROM LOWER LEFT TO UPPER RIGHT, matching the slope of the sand ridge in the TOP-MIDDLE photograph and the mountain shoulder in the TOP-RIGHT photograph.
+Precise top-left composition: main fabric fold intersects the left boundary at about 75 percent down from the top and the right boundary at about 25 percent down from the top. It must look like a naturally photographed jacket fold, with fine woven texture, not an added line, graphic or arrow. Preserve warm upper-left illumination and restrained tactile photographic realism. No face or human body parts need be added.
+Keep every other panel exactly as it was. No new text, no diagram overlays, no logos or watermarks. This single correction is to make the top row's graphic-match edit coherent.

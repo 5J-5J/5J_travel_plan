@@ -1,0 +1,23 @@
+{
+  "version": "v2",
+  "shot_count": 35,
+  "group_count": 8,
+  "duration_seconds": 90,
+  "total_frames": 2250,
+  "timeline_and_group_checks": "passed",
+  "markdown_local_links_checked": 51,
+  "markdown_tables": "passed",
+  "pdf_page_count": 17,
+  "pdf_contains_all_shots": true,
+  "pdf_text_inside_page": true,
+  "layout_space_checks": 43,
+  "selected_image_boards": 2,
+  "image_hashes_and_prompts": "passed",
+  "pdf_sha256": "7d6fb70c722b3bb694b5248e615acd2b6187cb082b37a6604b784d5af54ff3b4",
+  "visual_review": {
+    "completed": true,
+    "method": "Poppler 110 dpi PNG review of all 17 pages, then reinspection of all changed pages after corrections",
+    "notes": "Visual review is separate from numerical checks; artistic acceptance belongs to the user."
+  },
+  "audio_scope": "paused; validator does not read source audio or historical mix"
+}

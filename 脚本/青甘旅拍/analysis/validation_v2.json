@@ -1,0 +1,14 @@
+{
+  "version": "v2",
+  "shot_count": 35,
+  "duration_seconds": 90,
+  "total_frames": 2250,
+  "fps": 25,
+  "contiguous": true,
+  "unique_ids": true,
+  "all_group_references_valid": true,
+  "audio_not_read_or_modified": true,
+  "shortest_shot": 0.8,
+  "longest_shot": 6.0,
+  "status": "picture structure validation only; artistic review remains interpretive"
+}

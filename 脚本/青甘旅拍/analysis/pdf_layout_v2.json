@@ -1,0 +1,342 @@
+{
+  "pdf": "C:\\Users\\5J\\Desktop\\2026.10\\output\\pdf\\青甘旅拍_一瞥_V2_蒙太奇分镜.pdf",
+  "page_count": 17,
+  "checks": [
+    {
+      "kind": "group",
+      "id": "G0",
+      "page": 5,
+      "bottom_y": 342.10281249999997,
+      "limit": 271
+    },
+    {
+      "kind": "group",
+      "id": "G1",
+      "page": 5,
+      "bottom_y": 354.4028125,
+      "limit": 271
+    },
+    {
+      "kind": "group",
+      "id": "G2",
+      "page": 5,
+      "bottom_y": 122.40281249999997,
+      "limit": 38
+    },
+    {
+      "kind": "group",
+      "id": "G3",
+      "page": 5,
+      "bottom_y": 110.10281249999997,
+      "limit": 38
+    },
+    {
+      "kind": "group",
+      "id": "G4",
+      "page": 6,
+      "bottom_y": 354.4028125,
+      "limit": 271
+    },
+    {
+      "kind": "group",
+      "id": "G5",
+      "page": 6,
+      "bottom_y": 354.4028125,
+      "limit": 271
+    },
+    {
+      "kind": "group",
+      "id": "G6",
+      "page": 6,
+      "bottom_y": 122.40281249999997,
+      "limit": 38
+    },
+    {
+      "kind": "group",
+      "id": "G7",
+      "page": 6,
+      "bottom_y": 110.10281249999997,
+      "limit": 38
+    },
+    {
+      "kind": "shot",
+      "id": "V2-01",
+      "page": 7,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-02",
+      "page": 7,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-03",
+      "page": 7,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-04",
+      "page": 7,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-05",
+      "page": 8,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-06",
+      "page": 8,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-07",
+      "page": 8,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-08",
+      "page": 8,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-09",
+      "page": 9,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-10",
+      "page": 9,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-11",
+      "page": 9,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-12",
+      "page": 9,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-13",
+      "page": 10,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-14",
+      "page": 10,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-15",
+      "page": 10,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-16",
+      "page": 10,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-17",
+      "page": 11,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-18",
+      "page": 11,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-19",
+      "page": 11,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-20",
+      "page": 11,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-21",
+      "page": 12,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-22",
+      "page": 12,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-23",
+      "page": 12,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-24",
+      "page": 12,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-25",
+      "page": 13,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-26",
+      "page": 13,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-27",
+      "page": 13,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-28",
+      "page": 13,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-29",
+      "page": 14,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-30",
+      "page": 14,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-31",
+      "page": 14,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-32",
+      "page": 14,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-33",
+      "page": 15,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-34",
+      "page": 15,
+      "bottom_y": 343.4174999999999,
+      "limit": 287.28,
+      "font_size": 8.5
+    },
+    {
+      "kind": "shot",
+      "id": "V2-35",
+      "page": 15,
+      "bottom_y": 99.41749999999999,
+      "limit": 43.27999999999997,
+      "font_size": 8.5
+    }
+  ]
+}

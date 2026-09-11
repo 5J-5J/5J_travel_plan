@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-11",
+  "selected_assets": [
+    {
+      "asset": "assets/v2_materials.png",
+      "title": "材质、形状与尺度",
+      "size": [
+        2048,
+        768
+      ],
+      "sha256": "39519ea4bd328453342bc0fac8c5b1b6f966e583948c0d94892bb5ffcec2f496",
+      "mode": "built-in image_gen generation and reference-image edits",
+      "original_output": "C:/Users/5J/.codex/generated_images/01a08bfa-426c-7870-94f5-210859f7aab6/exec-bdbe483f-ee6d-4680-8349-c29cd119ab2a.png",
+      "prompts": [
+        "prompts/montage_v2_materials.txt",
+        "prompts/montage_v2_materials_refine.txt",
+        "prompts/montage_v2_materials_final_fix.txt"
+      ],
+      "asset_copied_without_pixel_edits": true
+    },
+    {
+      "asset": "assets/v2_presence.png",
+      "title": "动作、空缺与回环",
+      "size": [
+        2048,
+        768
+      ],
+      "sha256": "27d707a5036363032d3b7508731bcae338716e99b84fa1a902633a8599f710af",
+      "mode": "built-in image_gen generation and reference-image edits",
+      "original_output": "C:/Users/5J/.codex/generated_images/01a08bfa-426c-7870-94f5-210859f7aab6/exec-c44c9c34-d81f-4ff1-8e46-798031f0bbc4.png",
+      "prompts": [
+        "prompts/montage_v2_presence.txt",
+        "prompts/montage_v2_presence_refine.txt"
+      ],
+      "asset_copied_without_pixel_edits": true
+    }
+  ]
+}
