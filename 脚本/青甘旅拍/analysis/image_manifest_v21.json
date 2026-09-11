@@ -1,0 +1,67 @@
+{
+  "version": "v2.1",
+  "selected_boards": [
+    {
+      "id": "a",
+      "asset": "assets/v21_board_a.png",
+      "size": [
+        2048,
+        768
+      ],
+      "sha256": "1ebc0c630a9d230054807b9dcee4dd6db70e10261f7b815d4cea50fa3e3fd01b",
+      "original_output": "C:/Users/5J/.codex/generated_images/01a08bfa-426c-7870-94f5-210859f7aab6/exec-04f2872d-ce84-4f60-afb4-05a6768e8ea2.png",
+      "prompts": [
+        "prompts/v21_board_a.txt"
+      ],
+      "method": "built-in image_gen; original pixels copied to project",
+      "reference_scope": "conceptual framing and juxtaposition; not location or identity evidence"
+    },
+    {
+      "id": "b",
+      "asset": "assets/v21_board_b.png",
+      "size": [
+        2048,
+        768
+      ],
+      "sha256": "61f55988f3093c9c3012ac24466e0d4111a412a4ab384bc5004083c83b1b58f9",
+      "original_output": "C:/Users/5J/.codex/generated_images/01a08bfa-426c-7870-94f5-210859f7aab6/exec-286b0c2e-7057-4a37-9e6a-f1981cc8b5e8.png",
+      "prompts": [
+        "prompts/v21_board_b.txt",
+        "prompts/v21_board_b_refine.txt"
+      ],
+      "method": "built-in image_gen; original pixels copied to project",
+      "reference_scope": "conceptual framing and juxtaposition; not location or identity evidence"
+    },
+    {
+      "id": "c",
+      "asset": "assets/v21_board_c.png",
+      "size": [
+        2048,
+        768
+      ],
+      "sha256": "e57ca6a1ae57a1a0f7cb27fc20f89b3ba8174b1bbadc28a5328a8d36c658f61b",
+      "original_output": "C:/Users/5J/.codex/generated_images/01a08bfa-426c-7870-94f5-210859f7aab6/exec-8f99f2b6-d134-41ac-8e6f-2b4a493e8b87.png",
+      "prompts": [
+        "prompts/v21_board_c.txt"
+      ],
+      "method": "built-in image_gen; original pixels copied to project",
+      "reference_scope": "conceptual framing and juxtaposition; not location or identity evidence"
+    },
+    {
+      "id": "d",
+      "asset": "assets/v21_board_d.png",
+      "size": [
+        2048,
+        768
+      ],
+      "sha256": "8fe5a95d7d0fab9a89d848c0af3925d632a957166809054b9e2b3dfd82d6434b",
+      "original_output": "C:/Users/5J/.codex/generated_images/01a08bfa-426c-7870-94f5-210859f7aab6/exec-5c621166-e933-4568-ab44-4afe3ecddb99.png",
+      "prompts": [
+        "prompts/v21_board_d.txt"
+      ],
+      "method": "built-in image_gen; original pixels copied to project",
+      "reference_scope": "conceptual framing and juxtaposition; not location or identity evidence"
+    }
+  ],
+  "generation_notes": "B upper-middle framing refined. C and D each recovered through built-in retry after a network failure. No CLI/API fallback used."
+}

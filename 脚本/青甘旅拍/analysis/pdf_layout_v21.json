@@ -1,0 +1,624 @@
+{
+  "pdf": "C:\\Users\\5J\\Desktop\\2026.10\\output\\pdf\\青甘旅拍_一瞥_V2.1_情绪与关联分镜.pdf",
+  "pages": 34,
+  "layout_checks": [
+    {
+      "page": 1,
+      "label": "cover",
+      "bottom": 50.0,
+      "limit": 42
+    },
+    {
+      "page": 3,
+      "label": "P01 left",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 3,
+      "label": "P01 right",
+      "bottom": 390.28000000000003,
+      "limit": 276
+    },
+    {
+      "page": 3,
+      "label": "P02 left",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 3,
+      "label": "P02 right",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 4,
+      "label": "P03 left",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 4,
+      "label": "P03 right",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 4,
+      "label": "P04 left",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 4,
+      "label": "P04 right",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 5,
+      "label": "P05 left",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 5,
+      "label": "P05 right",
+      "bottom": 390.28000000000003,
+      "limit": 276
+    },
+    {
+      "page": 5,
+      "label": "P06 left",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 5,
+      "label": "P06 right",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 6,
+      "label": "P07 left",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 6,
+      "label": "P07 right",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 6,
+      "label": "P08 left",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 6,
+      "label": "P08 right",
+      "bottom": 157.27999999999994,
+      "limit": 43
+    },
+    {
+      "page": 7,
+      "label": "P09 left",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 7,
+      "label": "P09 right",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 7,
+      "label": "P10 left",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 7,
+      "label": "P10 right",
+      "bottom": 170.67999999999995,
+      "limit": 43
+    },
+    {
+      "page": 8,
+      "label": "P11 left",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 8,
+      "label": "P11 right",
+      "bottom": 403.68000000000006,
+      "limit": 276
+    },
+    {
+      "page": 9,
+      "label": "E01a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 9,
+      "label": "E01b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 9,
+      "label": "E01c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 9,
+      "label": "E01 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 9,
+      "label": "E01 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 10,
+      "label": "E02a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 10,
+      "label": "E02b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 10,
+      "label": "E02c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 10,
+      "label": "E02 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 10,
+      "label": "E02 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 11,
+      "label": "E03a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 11,
+      "label": "E03b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 11,
+      "label": "E03c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 11,
+      "label": "E03 shooting",
+      "bottom": 171.60000000000002,
+      "limit": 45
+    },
+    {
+      "page": 11,
+      "label": "E03 meaning",
+      "bottom": 156.6,
+      "limit": 45
+    },
+    {
+      "page": 12,
+      "label": "E04a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 12,
+      "label": "E04b",
+      "bottom": 312.9,
+      "limit": 236
+    },
+    {
+      "page": 12,
+      "label": "E04c",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 12,
+      "label": "E04 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 12,
+      "label": "E04 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 13,
+      "label": "E05a",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 13,
+      "label": "E05b",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 13,
+      "label": "E05c",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 13,
+      "label": "E05 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 13,
+      "label": "E05 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 14,
+      "label": "E06a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 14,
+      "label": "E06b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 14,
+      "label": "E06c",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 14,
+      "label": "E06 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 14,
+      "label": "E06 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 15,
+      "label": "E07a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 15,
+      "label": "E07b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 15,
+      "label": "E07c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 15,
+      "label": "E07 shooting",
+      "bottom": 171.60000000000002,
+      "limit": 45
+    },
+    {
+      "page": 15,
+      "label": "E07 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 16,
+      "label": "E08a",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 16,
+      "label": "E08b",
+      "bottom": 312.9,
+      "limit": 236
+    },
+    {
+      "page": 16,
+      "label": "E08c",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 16,
+      "label": "E08 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 16,
+      "label": "E08 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 17,
+      "label": "E09a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 17,
+      "label": "E09b",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 17,
+      "label": "E09c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 17,
+      "label": "E09 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 17,
+      "label": "E09 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 18,
+      "label": "E10a",
+      "bottom": 297.3,
+      "limit": 236
+    },
+    {
+      "page": 18,
+      "label": "E10b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 18,
+      "label": "E10c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 18,
+      "label": "E10 shooting",
+      "bottom": 171.60000000000002,
+      "limit": 45
+    },
+    {
+      "page": 18,
+      "label": "E10 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 19,
+      "label": "E11a",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 19,
+      "label": "E11b",
+      "bottom": 299.4,
+      "limit": 236
+    },
+    {
+      "page": 19,
+      "label": "E11c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 19,
+      "label": "E11 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 19,
+      "label": "E11 meaning",
+      "bottom": 170.8,
+      "limit": 45
+    },
+    {
+      "page": 20,
+      "label": "E12a",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 20,
+      "label": "E12b",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 20,
+      "label": "E12c",
+      "bottom": 283.8,
+      "limit": 236
+    },
+    {
+      "page": 20,
+      "label": "E12 shooting",
+      "bottom": 157.4,
+      "limit": 45
+    },
+    {
+      "page": 20,
+      "label": "E12 meaning",
+      "bottom": 155.8,
+      "limit": 45
+    },
+    {
+      "page": 21,
+      "label": "board a",
+      "bottom": 131.07124999999996,
+      "limit": 42
+    },
+    {
+      "page": 22,
+      "label": "board b",
+      "bottom": 131.07124999999996,
+      "limit": 42
+    },
+    {
+      "page": 23,
+      "label": "board c",
+      "bottom": 131.07124999999996,
+      "limit": 42
+    },
+    {
+      "page": 24,
+      "label": "board d",
+      "bottom": 131.07124999999996,
+      "limit": 42
+    },
+    {
+      "page": 25,
+      "label": "table",
+      "bottom": 160.27999999999997,
+      "limit": 42
+    },
+    {
+      "page": 26,
+      "label": "package A",
+      "bottom": 218.27999999999997,
+      "limit": 86
+    },
+    {
+      "page": 26,
+      "label": "package B",
+      "bottom": 218.27999999999997,
+      "limit": 86
+    },
+    {
+      "page": 26,
+      "label": "package C",
+      "bottom": 178.27999999999997,
+      "limit": 86
+    },
+    {
+      "page": 27,
+      "label": "01 / 形状与方向",
+      "bottom": 418.28,
+      "limit": 268
+    },
+    {
+      "page": 27,
+      "label": "02 / 身体与动作相位",
+      "bottom": 418.28,
+      "limit": 268
+    },
+    {
+      "page": 27,
+      "label": "03 / 人物与空景",
+      "bottom": 237.27999999999997,
+      "limit": 88
+    },
+    {
+      "page": 27,
+      "label": "04 / 分屏与宽幅",
+      "bottom": 237.27999999999997,
+      "limit": 88
+    },
+    {
+      "page": 28,
+      "label": "table",
+      "bottom": 166.27999999999997,
+      "limit": 42
+    },
+    {
+      "page": 29,
+      "label": "table",
+      "bottom": 85.80000000000005,
+      "limit": 42
+    },
+    {
+      "page": 30,
+      "label": "table",
+      "bottom": 85.80000000000005,
+      "limit": 42
+    },
+    {
+      "page": 31,
+      "label": "table",
+      "bottom": 85.80000000000005,
+      "limit": 42
+    },
+    {
+      "page": 32,
+      "label": "table",
+      "bottom": 85.80000000000005,
+      "limit": 42
+    },
+    {
+      "page": 33,
+      "label": "table",
+      "bottom": 85.80000000000005,
+      "limit": 42
+    },
+    {
+      "page": 34,
+      "label": "table",
+      "bottom": 145.27999999999997,
+      "limit": 42
+    },
+    {
+      "page": 34,
+      "label": "closing",
+      "bottom": 110.27999999999997,
+      "limit": 42
+    }
+  ]
+}

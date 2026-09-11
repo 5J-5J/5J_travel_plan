@@ -1,0 +1,23 @@
+{
+  "version": "v2.1",
+  "pdf_pages": 34,
+  "all_11_emotion_phases_present": true,
+  "all_36_new_shot_segments_present": true,
+  "all_35_baseline_segments_present": true,
+  "all_three_packages_90_seconds_2250_frames": true,
+  "protected_holds_retained": true,
+  "markdown_links_checked": 92,
+  "no_broken_markdown_tables": true,
+  "pdf_text_within_page": true,
+  "layout_space_checks": 103,
+  "reference_board_links": 8,
+  "image_boards": 4,
+  "image_hashes_and_prompts_verified": true,
+  "pdf_sha256": "983197a329e285d025ecf97b1bb5dd6d884275ef2e156de37e0f42f174b25f1c",
+  "visual_review": {
+    "complete": true,
+    "method": "All 34 Poppler 110dpi pages reviewed via contact sheets; changed pages and dense text checked again at page size.",
+    "scope": "layout and legibility; emotional effect remains an artistic judgement"
+  },
+  "audio_scope": "paused; no audio read by this validator"
+}

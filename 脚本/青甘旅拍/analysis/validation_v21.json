@@ -1,0 +1,39 @@
+{
+  "version": "v2.1",
+  "baseline_seconds": 90,
+  "baseline_frames": 2250,
+  "baseline_segments": 35,
+  "emotion_phases": 11,
+  "phase_coverage_contiguous": true,
+  "new_groups": 12,
+  "new_shot_segments": 36,
+  "each_group_fits_original_time_slots": true,
+  "single_group_90_second_checks": 12,
+  "package_checks": [
+    {
+      "id": "A",
+      "seconds": 90,
+      "frames": 2250,
+      "segments": 33,
+      "overlaps": false,
+      "gaps": false
+    },
+    {
+      "id": "B",
+      "seconds": 90,
+      "frames": 2250,
+      "segments": 33,
+      "overlaps": false,
+      "gaps": false
+    },
+    {
+      "id": "C",
+      "seconds": 90,
+      "frames": 2250,
+      "segments": 34,
+      "overlaps": false,
+      "gaps": false
+    }
+  ],
+  "audio_scope": "paused; no audio files read or modified"
+}

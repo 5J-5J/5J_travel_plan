@@ -192,7 +192,12 @@
       "execution": "ZR三脚架从窗外斜拍；用同一条连续素材拆出开头与结尾。人物本人坐入画。",
       "alternative": "反射难控制时，从车内直接拍侧脸，保留窗框与远处山线。",
       "group": "G0",
-      "diagram": "window"
+      "diagram": "window",
+      "phase": "P01",
+      "phase_title": "好奇：意识刚离开眼前",
+      "options": [
+        "E12"
+      ]
     },
     {
       "id": "V2-02",
@@ -208,7 +213,13 @@
       "execution": "ZR固定近拍；用自然呼吸或轻微转肩推动布料。取最近可清晰距离，留裁切空间。",
       "alternative": "拍手背旁的袖口或旅行包布料，主线和方向保持。",
       "group": "G1",
-      "diagram": "fabric"
+      "diagram": "fabric",
+      "phase": "P02",
+      "phase_title": "惊奇：一条线忽然变大",
+      "options": [
+        "E01",
+        "E02"
+      ]
     },
     {
       "id": "V2-03",
@@ -224,7 +235,13 @@
       "execution": "ZR地面取景，寻找一条完整脊线；控制亮面落在上一镜同一侧。",
       "alternative": "用可进入区域里的小沙脊，靠较窄取景和侧光获得线条。",
       "group": "G1",
-      "diagram": "dune"
+      "diagram": "dune",
+      "phase": "P02",
+      "phase_title": "惊奇：一条线忽然变大",
+      "options": [
+        "E01",
+        "E02"
+      ]
     },
     {
       "id": "V2-04",
@@ -240,7 +257,13 @@
       "execution": "ZR三脚架，地平线与山肩角度参照V2-02截图；以现场山形为准。",
       "alternative": "张掖可见的山形或普通沿途山线，只保留斜线关系。",
       "group": "G1",
-      "diagram": "mountain"
+      "diagram": "mountain",
+      "phase": "P02",
+      "phase_title": "惊奇：一条线忽然变大",
+      "options": [
+        "E01",
+        "E02"
+      ]
     },
     {
       "id": "V2-05",
@@ -256,7 +279,13 @@
       "execution": "ZR固定，人物三分之二侧背；相机略低，肩背与山线分开而可对照。",
       "alternative": "开阔天空加肩线即可，不强求人物与山完全重合。",
       "group": "G1",
-      "diagram": "shoulder"
+      "diagram": "shoulder",
+      "phase": "P02",
+      "phase_title": "惊奇：一条线忽然变大",
+      "options": [
+        "E01",
+        "E02"
+      ]
     },
     {
       "id": "V2-06",
@@ -272,7 +301,12 @@
       "execution": "ZR固定拍手；摄影者伸手入画。清晰距离不足时拍更宽再裁切。",
       "alternative": "用手背的皮肤纹理和腕部曲线。",
       "group": "G2",
-      "diagram": "palm"
+      "diagram": "palm",
+      "phase": "P03",
+      "phase_title": "亲近：远方开始有触感",
+      "options": [
+        "E03"
+      ]
     },
     {
       "id": "V2-07",
@@ -288,7 +322,12 @@
       "execution": "ZR固定从岸边取细节，保留可见的水纹方向。",
       "alternative": "窗上真实的微小反光或其他水面；不依赖完美镜面。",
       "group": "G2",
-      "diagram": "ripples"
+      "diagram": "ripples",
+      "phase": "P03",
+      "phase_title": "亲近：远方开始有触感",
+      "options": [
+        "E03"
+      ]
     },
     {
       "id": "V2-08",
@@ -304,7 +343,12 @@
       "execution": "可用Air 2S稳定俯视纯景，需具备现场条件；或ZR从较高地面位置取景。",
       "alternative": "普通岸线的宽景，保留弯曲边界即可。",
       "group": "G2",
-      "diagram": "shore"
+      "diagram": "shore",
+      "phase": "P03",
+      "phase_title": "亲近：远方开始有触感",
+      "options": [
+        "E03"
+      ]
     },
     {
       "id": "V2-09",
@@ -320,7 +364,12 @@
       "execution": "ZR固定记录手从近处离开，人物在中距离；可由帮拍者做很短的重构图。",
       "alternative": "分两条素材拍手放下和侧背，用方向保持连续。",
       "group": "G2",
-      "diagram": "hand"
+      "diagram": "hand",
+      "phase": "P03",
+      "phase_title": "亲近：远方开始有触感",
+      "options": [
+        "E03"
+      ]
     },
     {
       "id": "V2-10",
@@ -336,7 +385,10 @@
       "execution": "ZR三脚架，人物偏左或偏右，留宽阔空间；正常速度。",
       "alternative": "没有明显风时保留自然站立和水面的小变化。",
       "group": "G2",
-      "diagram": "person"
+      "diagram": "person",
+      "phase": "P04",
+      "phase_title": "沉入：让刚才的画面留下来",
+      "options": []
     },
     {
       "id": "V2-11",
@@ -352,7 +404,12 @@
       "execution": "Action低机位固定；拍动作前后各5秒，鞋和裤脚保持连续。",
       "alternative": "ZR低机位拍脚，不依赖超近对焦。",
       "group": "G3",
-      "diagram": "foot"
+      "diagram": "foot",
+      "phase": "P05",
+      "phase_title": "轻盈：一步把几天折在一起",
+      "options": [
+        "E05"
+      ]
     },
     {
       "id": "V2-12",
@@ -368,7 +425,12 @@
       "execution": "ZR固定机高约腰部；完整缓慢迈步，留可用高帧率版本。保存起、中、落三帧参考。",
       "alternative": "其他开阔蓝灰背景。",
       "group": "G3",
-      "diagram": "walk_lake"
+      "diagram": "walk_lake",
+      "phase": "P05",
+      "phase_title": "轻盈：一步把几天折在一起",
+      "options": [
+        "E05"
+      ]
     },
     {
       "id": "V2-13",
@@ -384,7 +446,12 @@
       "execution": "同一机高、相近取景和步幅；慢步速度与拍摄帧率沿用首站，接前送相位。",
       "alternative": "浅色道路/岸边，不要求走进盐壳。",
       "group": "G3",
-      "diagram": "walk_salt"
+      "diagram": "walk_salt",
+      "phase": "P05",
+      "phase_title": "轻盈：一步把几天折在一起",
+      "options": [
+        "E05"
+      ]
     },
     {
       "id": "V2-14",
@@ -400,7 +467,12 @@
       "execution": "同方向、同人物高度、同慢步速度；完整拍一遍，再选将落未落的相位。",
       "alternative": "普通沙色平地，不依赖特殊沙丘。",
       "group": "G3",
-      "diagram": "walk_sand"
+      "diagram": "walk_sand",
+      "phase": "P05",
+      "phase_title": "轻盈：一步把几天折在一起",
+      "options": [
+        "E05"
+      ]
     },
     {
       "id": "V2-15",
@@ -416,7 +488,12 @@
       "execution": "Action地面固定；只做普通一步，拍三条不同速度备用。",
       "alternative": "鞋落在浅色土面；避免为了画面故意滑倒。",
       "group": "G3",
-      "diagram": "foot"
+      "diagram": "foot",
+      "phase": "P05",
+      "phase_title": "轻盈：一步把几天折在一起",
+      "options": [
+        "E05"
+      ]
     },
     {
       "id": "V2-16",
@@ -432,7 +509,12 @@
       "execution": "帮拍者稳定器短横移；单人用ZR固定，让身体转动提供运动。",
       "alternative": "固定侧背自然转头。",
       "group": "G4",
-      "diagram": "turn"
+      "diagram": "turn",
+      "phase": "P06",
+      "phase_title": "晕动退去：眼睛还在继续走",
+      "options": [
+        "E06"
+      ]
     },
     {
       "id": "V2-17",
@@ -448,7 +530,12 @@
       "execution": "ZR向左短横摇，使静止地景在屏幕里向右移；前后各留静止段。",
       "alternative": "山脊或岸线曲线；不用公路中间机位。",
       "group": "G4",
-      "diagram": "curve"
+      "diagram": "curve",
+      "phase": "P06",
+      "phase_title": "晕动退去：眼睛还在继续走",
+      "options": [
+        "E06"
+      ]
     },
     {
       "id": "V2-18",
@@ -464,7 +551,12 @@
       "execution": "ZR固定或帮拍者停稳；眼神保持自然，不表演忧愁。",
       "alternative": "只拍侧背，不需要清楚面部表情。",
       "group": "G4",
-      "diagram": "profile"
+      "diagram": "profile",
+      "phase": "P06",
+      "phase_title": "晕动退去：眼睛还在继续走",
+      "options": [
+        "E06"
+      ]
     },
     {
       "id": "V2-19",
@@ -480,7 +572,14 @@
       "execution": "ZR/Action固定拍投影；人物走过光线合适的位置。",
       "alternative": "阴天拍衣摆掠过前景，先给局部再给全身。",
       "group": "G5",
-      "diagram": "shadow"
+      "diagram": "shadow",
+      "phase": "P07",
+      "phase_title": "空落：记忆省略了一个动作",
+      "options": [
+        "E04",
+        "E07",
+        "E08"
+      ]
     },
     {
       "id": "V2-20",
@@ -496,7 +595,14 @@
       "execution": "ZR三脚架，锁定曝光和焦点。随后本人走出画面，再继续录空景。",
       "alternative": "在任何可控背景前拍同一组人物/空景。",
       "group": "G5",
-      "diagram": "presence"
+      "diagram": "presence",
+      "phase": "P07",
+      "phase_title": "空落：记忆省略了一个动作",
+      "options": [
+        "E04",
+        "E07",
+        "E08"
+      ]
     },
     {
       "id": "V2-21",
@@ -512,7 +618,13 @@
       "execution": "直接切到同一条长录中的空景部分，机位不动；无须抠像。",
       "alternative": "现场变化明显时，人走出后留空的连续镜头也可作较温和版本。",
       "group": "G5",
-      "diagram": "absence"
+      "diagram": "absence",
+      "phase": "P07",
+      "phase_title": "空落：记忆省略了一个动作",
+      "options": [
+        "E07",
+        "E08"
+      ]
     },
     {
       "id": "V2-22",
@@ -528,7 +640,12 @@
       "execution": "ZR固定，取细小的眼神/耳后发丝动作；不加夸张表情。",
       "alternative": "肩颈近景与风动发丝。",
       "group": "G5",
-      "diagram": "profile"
+      "diagram": "profile",
+      "phase": "P07",
+      "phase_title": "空落：记忆省略了一个动作",
+      "options": [
+        "E07"
+      ]
     },
     {
       "id": "V2-23",
@@ -544,7 +661,12 @@
       "execution": "ZR近拍或Action稍远拍后裁；以实际风向选取剪辑方向。",
       "alternative": "人物轻转身带动衣摆，保持自然速度。",
       "group": "G6",
-      "diagram": "fabric_wind"
+      "diagram": "fabric_wind",
+      "phase": "P08",
+      "phase_title": "重新连上：分散的地方共享运动",
+      "options": [
+        "E09"
+      ]
     },
     {
       "id": "V2-24",
@@ -560,7 +682,12 @@
       "execution": "ZR固定较长时间录制，后期按云影速度选择片段。",
       "alternative": "没有云影时，向左轻摇已有明暗边界，让边界在屏幕里向右移动。",
       "group": "G6",
-      "diagram": "cloud"
+      "diagram": "cloud",
+      "phase": "P08",
+      "phase_title": "重新连上：分散的地方共享运动",
+      "options": [
+        "E09"
+      ]
     },
     {
       "id": "V2-25",
@@ -576,7 +703,12 @@
       "execution": "ZR固定正常速度或按机型可用模式拍高帧率备用。",
       "alternative": "路边可拍的自然草穗；没有草时用衣料另一角度。",
       "group": "G6",
-      "diagram": "grass"
+      "diagram": "grass",
+      "phase": "P08",
+      "phase_title": "重新连上：分散的地方共享运动",
+      "options": [
+        "E09"
+      ]
     },
     {
       "id": "V2-26",
@@ -592,7 +724,12 @@
       "execution": "ZR固定，画面主体是纹理；以运动方向选择素材。",
       "alternative": "水面反光移动的片段。",
       "group": "G6",
-      "diagram": "ripples"
+      "diagram": "ripples",
+      "phase": "P08",
+      "phase_title": "重新连上：分散的地方共享运动",
+      "options": [
+        "E09"
+      ]
     },
     {
       "id": "V2-27",
@@ -608,7 +745,12 @@
       "execution": "与V2-23取同一条较长素材的后半段，动作连续。",
       "alternative": "用同一条衣摆素材连续拆分，避免材质方向变化。",
       "group": "G6",
-      "diagram": "fabric_wind"
+      "diagram": "fabric_wind",
+      "phase": "P08",
+      "phase_title": "重新连上：分散的地方共享运动",
+      "options": [
+        "E09"
+      ]
     },
     {
       "id": "V2-28",
@@ -624,7 +766,12 @@
       "execution": "ZR固定或很短横摇；地面观景机位即可。",
       "alternative": "任意可见层次分明的山体，不要求特定地标。",
       "group": "G6",
-      "diagram": "mountain"
+      "diagram": "mountain",
+      "phase": "P09",
+      "phase_title": "开放：让身体真正进入辽阔",
+      "options": [
+        "E10"
+      ]
     },
     {
       "id": "V2-29",
@@ -640,7 +787,12 @@
       "execution": "ZR三脚架，你跑过固定构图；有帮拍者可短距离陪走。",
       "alternative": "快走或大步跨过，同样能传递能量。",
       "group": "G6",
-      "diagram": "run"
+      "diagram": "run",
+      "phase": "P09",
+      "phase_title": "开放：让身体真正进入辽阔",
+      "options": [
+        "E10"
+      ]
     },
     {
       "id": "V2-30",
@@ -656,7 +808,12 @@
       "execution": "帮拍者短跟或ZR固定提前对好位置，开机后多等一会儿。",
       "alternative": "侧背自然回头，不必强求笑容。",
       "group": "G6",
-      "diagram": "profile"
+      "diagram": "profile",
+      "phase": "P09",
+      "phase_title": "开放：让身体真正进入辽阔",
+      "options": [
+        "E10"
+      ]
     },
     {
       "id": "V2-31",
@@ -672,7 +829,12 @@
       "execution": "Air 2S稳定纯景缓升，满足现场条件时使用；人物无需入画。",
       "alternative": "ZR较高地面静态远景，保持水色与岸线关系。",
       "group": "G2",
-      "diagram": "shore"
+      "diagram": "shore",
+      "phase": "P09",
+      "phase_title": "开放：让身体真正进入辽阔",
+      "options": [
+        "E10"
+      ]
     },
     {
       "id": "V2-32",
@@ -688,7 +850,12 @@
       "execution": "ZR三脚架，连续录完整走出，不追着人物摇。",
       "alternative": "同结构可在沙地或湖岸拍。",
       "group": "G7",
-      "diagram": "walk_grass"
+      "diagram": "walk_grass",
+      "phase": "P10",
+      "phase_title": "平静：这一次，我们看见你离开",
+      "options": [
+        "E11"
+      ]
     },
     {
       "id": "V2-33",
@@ -704,7 +871,12 @@
       "execution": "与V2-32使用同一条素材连续衔接，保持真实时间流动。",
       "alternative": "换到更窄的取景范围，让普通步速也能完整走出；相机保持不动。",
       "group": "G7",
-      "diagram": "absence"
+      "diagram": "absence",
+      "phase": "P10",
+      "phase_title": "平静：这一次，我们看见你离开",
+      "options": [
+        "E11"
+      ]
     },
     {
       "id": "V2-34",
@@ -720,7 +892,12 @@
       "execution": "ZR三脚架斜拍车窗；从真实反射中选角度，可单人伸手。",
       "alternative": "车内手指靠着窗框，远处山线留在窗外。",
       "group": "G0",
-      "diagram": "window_hand"
+      "diagram": "window_hand",
+      "phase": "P11",
+      "phase_title": "余韵：把远方带回一次观看",
+      "options": [
+        "E12"
+      ]
     },
     {
       "id": "V2-35",
@@ -736,7 +913,12 @@
       "execution": "必须从V2-01同一条素材中截取连续后半段，不重拍另一个动作冒充无缝。",
       "alternative": "同样可用无反射的侧脸连续素材完成。",
       "group": "G0",
-      "diagram": "window"
+      "diagram": "window",
+      "phase": "P11",
+      "phase_title": "余韵：把远方带回一次观看",
+      "options": [
+        "E12"
+      ]
     }
   ]
 }

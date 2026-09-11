@@ -77,12 +77,12 @@ stages=[
  {'start':56.8,'end':78,'name':'风把碎片接在一起','feeling':'开放、释放','rhythm':'短镜接力之后，3–4秒大景与人物交替'},
  {'start':78,'end':90,'name':'一瞥继续','feeling':'平静、余韵','rhythm':'5秒空景、手、4秒未完成动作的后半段'},
 ]
-data={'version':'v2','working_title':'一瞥','status':'current creative proposal, not yet accepted by user','duration':90,'fps':FPS,'aspect_ratio':'16:9','audio_scope':'paused by explicit user instruction; no BGM source mapping or sound design in this version','user_preference':'bold visual sequences combined with pauses and aftertaste','shot_count':len(shots),'stages':stages,'groups':groups,'shots':shots}
+data={'version':'v2','working_title':'一瞥','status':'V2 direction accepted by user; expanded in V2.1','duration':90,'fps':FPS,'aspect_ratio':'16:9','audio_scope':'paused by explicit user instruction; no BGM source mapping or sound design in this version','user_preference':'bold visual sequences combined with pauses and aftertaste','shot_count':len(shots),'stages':stages,'groups':groups,'shots':shots}
 (P/'analysis'/'montage_v2.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 
 head='''# 《一瞥》｜90秒蒙太奇旅拍分镜 V2
 
-**当前创作方向，供验收。**主角仍是你，路线与器材沿用已确认条件。工作规格16:9、25fps；35镜，90秒。
+**用户已认可的V2方向；[情绪与关联镜头扩展见V2.1](10_V2.1_情绪与剪辑导演谱.md)。**主角仍是你，路线与器材沿用已确认条件。工作规格16:9、25fps；35镜，90秒。
 
 本版按用户最新要求暂缓全部音频工作，时间线由画面关系和观看节奏独立构成。旧版《第十一秒》的自拍任务、倒计时、挫败后释然主题及11秒结尾约束均已退出当前方案。
 
